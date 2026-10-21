@@ -92,7 +92,9 @@ My hands-on Spring Boot project, built while learning enterprise backend develop
 ## Toolbox
 
 **Hands-on**: Java 21+, concurrency (CompletableFuture, executors, virtual threads), JDBC, SQL (MySQL, MariaDB, H2), HikariCP, Caffeine, Gradle, Maven, Git, GitHub Actions, Docker
+<br>
 **Learning now**: Spring Boot, Spring Security, JWT, Spring Data JPA, Hibernate, PostgreSQL, JUnit 5, Testcontainers
+<br>
 **Also used**: TypeScript, React, Rust, Tauri, Kotlin, Python, MongoDB, Redis
 
 ## How I work
